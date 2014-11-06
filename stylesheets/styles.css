@@ -1,0 +1,19 @@
+h1, h2 {
+    color:#fff;
+}
+
+h1 {
+    font-size:70px; /* 4.375em */
+    font-weight:bold;
+}
+
+h2 {
+    font-size:20px; /* 1.25em */
+    font-weight:normal;
+}
+
+h3 {
+    color:#3aaa5e;
+    font-size:18px; /* 1.125em */
+    font-weight:bold;
+}
